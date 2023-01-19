@@ -1,3 +1,3 @@
 # Pacman-Super-Mario
 
-Test
+Re-Testing CSS and Vanilla Javascript as originally desired during bootcamp. 
